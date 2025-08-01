@@ -1,0 +1,8 @@
+streamlit
+pymongo
+streamlit-option-menu
+python-dotenv
+bcrypt
+pymupdf  # (for fitz)
+mistralai
+
